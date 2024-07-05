@@ -61,8 +61,8 @@ export function NavBar() {
         </Dialog>
         <NavigationMenu>
           <NavigationMenuList className="max-[825px]:hidden ">
-            <Link href="/" className="pl-2">
-              <h1 className="font-bold">fabrika.</h1>
+            <Link href="https://github.com/surajb1515 " className="pl-2">
+              <h1 className="font-bold">Suraj Bhardwaj</h1>
             </Link>
           </NavigationMenuList>
         </NavigationMenu>
